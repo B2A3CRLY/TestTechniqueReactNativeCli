@@ -1,0 +1,8 @@
+export const LOGIN = "LOGIN"
+export const REGISTER = "REGISTER"
+export const LOGOUT = "LOGOUT"
+export const CREATION_CONTACT = "CREATION_CONTACT"
+export const CONTACTS = "CONTACTS"
+export const CONTACT_DETAIL = "CONTACT_DETAIL"
+export const RESOURCE_DETAIL = "RESOURCE_DETAIL"
+export const RESOURCES = "RESOURCES"
